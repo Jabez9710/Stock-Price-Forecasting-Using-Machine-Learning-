@@ -13,7 +13,7 @@ These are some example questions that will run in investors' minds  and our obje
 # Licensed Under MIT
 MIT License
 
-Copyright (c) 2021 Gladrin Gideon Aroul
+Copyright (c) 2023 Jabez Livingston
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
